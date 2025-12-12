@@ -1,2 +1,6 @@
 Hello Git!
 VCS
+
+This is a log file
+
+Added a feature
